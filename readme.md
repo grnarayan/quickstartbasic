@@ -1,3 +1,2 @@
 # Laravel Quickstart - Basic
-
-http://laravel.com/docs/quickstart
+Project cloned fome http://laravel.com/docs/quickstart
